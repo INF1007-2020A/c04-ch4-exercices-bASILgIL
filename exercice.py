@@ -3,7 +3,7 @@
 
 
 def is_even_len(string: str) -> bool:
-    if int(len(str)/2):
+    if len(str)/2):
         print(f"Le nombre de caractère dans la chaine {str} est pair")
     else:
         print(f"Le nombre de caractère dans la chaine {str} est impair") 
