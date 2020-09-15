@@ -7,7 +7,7 @@ def is_even_len(string: str) -> bool:
         print(f"Le nombre de caractère dans la chaine {str} est pair")
     else:
         print(f"Le nombre de caractère dans la chaine {str} est impair")
-    return
+    return 
 
 
 def remove_third_char(string: str) -> str:
