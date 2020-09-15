@@ -5,9 +5,9 @@ import math
 
 def is_even_len(string: str) -> bool:
     if math.pair(len(string)):
-        print(f"Le nombre de caractère dans la chaine {} est pair")
+        print(f"Le nombre de caractère dans la chaine {string} est pair")
     else:
-        print(f"Le nombre de caractère dans la chaine {str} est impair") 
+        print(f"Le nombre de caractère dans la chaine {string} est impair") 
 
 
 def remove_third_char(string: str) -> str:
