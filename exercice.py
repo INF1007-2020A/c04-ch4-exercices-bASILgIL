@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-
+import math
 def is_even_len(string: str) -> bool:
     if math.pair(str):
         print(f"Le nombre de caractère dans la chaine {str} est pair")
