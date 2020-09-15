@@ -3,7 +3,7 @@
 
 
 def is_even_len(string: str) -> bool:
-    if (len(str)/2)=:
+    if (len(str)/2) = :
         pass
     else:
         pass
