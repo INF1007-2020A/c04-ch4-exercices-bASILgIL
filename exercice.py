@@ -3,11 +3,11 @@
 
 
 def is_even_len(string: str) -> bool:
-    ret
+    return
 
 
 def remove_third_char(string: str) -> str:
-    pass
+    return
 
 
 def replace_char(string: str, old_char: str, new_char: str) -> str:
