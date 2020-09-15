@@ -4,8 +4,8 @@
 import math
 
 def is_even_len(string: str) -> bool:
-    if math.pair(len()):
-        print(f"Le nombre de caractère dans la chaine {str} est pair")
+    if math.pair(len(string)):
+        print(f"Le nombre de caractère dans la chaine {} est pair")
     else:
         print(f"Le nombre de caractère dans la chaine {str} est impair") 
 
