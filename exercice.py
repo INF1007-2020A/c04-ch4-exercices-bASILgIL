@@ -4,7 +4,7 @@
 import math
 
 def is_even_len(string: str) -> bool:
-    
+    if len()
 
    pass
 
