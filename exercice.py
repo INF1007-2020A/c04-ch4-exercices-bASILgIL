@@ -4,7 +4,7 @@
 
 def is_even_len(string: str) -> bool:
     if int(len(str)/2):
-        
+        print
     else:
         pass
     return
