@@ -4,9 +4,7 @@
 import math
 
 def is_even_len(string: str) -> bool:
-    if len(string)
-
-   pass
+    if len(string) 
 
 
 def remove_third_char(string: str) -> str:
